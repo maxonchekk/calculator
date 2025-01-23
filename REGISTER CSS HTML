@@ -1,0 +1,17 @@
+<html>
+    <body>
+        <div class=form>
+            <p><h2>РЕГИСТРАЦИЯ</h2></p>
+            <p> Логин: </p>
+            <input class="ty">
+            <p> Пароль </p>
+            <input class="ty">
+            <p><button>ВХОД</button></p>
+    </body>
+</html>
+
+.form { text-align:center;
+font-size:50px}
+.ty {font-size:50px;
+color: #000000;}
+button {font-size: 60px;}
