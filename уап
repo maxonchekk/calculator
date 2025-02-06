@@ -27,3 +27,23 @@
           </body>
           
           </html>
+
+
+h1 {
+    color: #00CCCC;
+}
+h8 {
+    color: #EE00EE;
+}
+p {
+    color: #FF7777;
+}
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: #222222;
+
+  background: #ffffff url("https://avatars.mds.yandex.net/i?id=d6bcceab0649dd911e868982041aa72042a932ac-9765845-images-thumbs&n=13")
+}
