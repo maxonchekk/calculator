@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <body>
+    <link rel="stylesheet" href="style.css">
+    <main>
+        <article>
+          <button class="button operation">Лента новостей</button>
+          <button class="button operation">Выйти из аккакнта</button>
+          <p>NICK: @maxonchekk (ID: 1111111)</p>
+          <h2>Личный кабинет</h2>
+              </article>
+      </main>
+<img src="https://avatars.mds.yandex.net/i?id=1d582e555e6b32abe047fc54ab4d63cea290dad7-5169626-images-thumbs&n=13" width="150" height="130">
+<h3>Алексеев Алексей Алексеевич</h3><br>
+Эл почта:
+  <a href="index.html">maxonlutiy666@gmail.com</a>
+  <p>Специальность: физик-ядерщик</p>
+  <p>Крипто-баланс: 
+    <ul>
+    <li>1.000.000 тон-коинов</li>
+      <li>1.000 нот-коинов</li>
+      <li>1.000.000 хамстер-коинов</li>
+      <li>1.000 бит-коинов</li>
+    </ul></p>
+    <img src="https://avatars.mds.yandex.net/i?id=b62b61e7502dc8a0c59b4294887bd8e3272bdd0c-8199312-images-thumbs&n=13" width="20" height="18">
+    Ваш профиль понравился 1305 пользователям
+</body>
+</body>
+</html>
+
+
+
+h2 {
+    color: #33CCFF
+}
+h3 {
+    color: #6600ff
+}
+body {
+    background: #CCCCFF
+}
+button {
+    background-color: #0ae0f0;
+    color: #000000
+}
