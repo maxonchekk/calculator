@@ -11,20 +11,25 @@
     <p>Авторизация</p>
     <p> Логин:</p>
     <input class="ty">
-    <p> Пароль </p>
+    <p> Пароль: </p>
     <input class="ty"><br>
-    <button>Вход</button>
+    <p><button>Вход</button></p>
 </div>
     </body>
 </html>
+
 .form {
     text-align: center;
-    font-size: 40px
+    font-size: 40px;
+    font-family: arial black;
 }
 .ty {
     font-size: 40px;
     color: #008000
 }
-.button {
-    font-size: 40px
+button {
+    font-size: 50px;
+}
+body {
+    background-color: bisque;
 }
