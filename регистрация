@@ -8,14 +8,19 @@
 </head>
 <body>
 <div class="form">
-    <p>Авторизация</p>
+  <p>Авторизация</p>
     <p> Логин:</p>
     <input class="ty">
     <p> Пароль: </p>
     <input class="ty"><br>
     <p><button>Вход</button></p>
 </div>
-    </body>
+<script src="script.js"></script>
+<div class="login" id="login"></div>
+<div class="password" id="password"></div>
+<div class="message" id="message"></div>
+<div class="login-bth" id="login-bth"></div>
+</body>
 </html>
 
 .form {
@@ -33,3 +38,17 @@ button {
 body {
     background-color: bisque;
 }
+
+
+document.getElementById('login-bth').addEventListener('click', function() {
+    const inputlogin = document.geteElementById('login').value
+    const inputpassword = document.getElementById('password').value
+    const messageDiv = document.getElementById('message');
+
+    if (inputlogin === login && inputpassword === password) {
+        window.open('../feed/feed.html')
+    } else {
+        messageDiv.textContent = 'Неверный логин или пароль.';
+        messageDiv.className = 'message eror'
+    }
+})
