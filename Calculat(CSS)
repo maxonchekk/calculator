@@ -1,5 +1,0 @@
-body {
-    padding: 0 300px;
-    font: 208px/25px "Arial", sans-serif;
-    background: #000000
-}
