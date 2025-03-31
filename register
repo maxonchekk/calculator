@@ -1,9 +1,0 @@
-<html>
-    <head>
-        ПРИВЕТ
-    </head>
-    <body>
-    <p><button onclick="window.open('https://yandex.ru/images/search?pos=9&from=tabbar&img_url=http%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F970977583313245214%2F922298F42D0334913BEA8EE64528C04C30D4BE46%2F%3Fimw%3D512%26amp%3Bimh%3D288%26amp%3Bima%3Dfit%26amp%3Bimpolicy%3DLetterbox%26amp%3Bimcolor%3D%2523000000%26amp%3Bletterbox%3Dtrue&text=%D0%BF%D0%BE%D0%BA%D0%B0&rpt=simage&lr=16')">ВЫЙТИ</button></p>
-    <button onclick="window.open('https://passport.yandex.ru/auth/reg/portal')">АВТОРИЗОВАТЬСЯ</button>
-    </body>
-</html>
